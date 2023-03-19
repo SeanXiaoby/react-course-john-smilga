@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="container">
       <Starter />
-      <Final />
+      {/* <Final /> */}
     </div>
   );
 }
